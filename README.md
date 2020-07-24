@@ -12,4 +12,4 @@
 ![Image](https://github.com/a596480606/images/blob/master/data.png)
 ## 使用方法
 先配置 RedisServer、SalveSpider中的 settings.py  文件，改为自己的数据库地址，然后先运行   中的 main.py ，等其运行完毕后，redis 中已经有了数据，就可以在任意多的电脑上启动 SalveSpider 的 main.py。
-我自己用了5台电脑运行  SalveSpider 的 main.py，大概花费了 4 分钟把近4000只A股的近300个交易日数据插入了数据库。
+
